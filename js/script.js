@@ -4,7 +4,7 @@
 // Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 
 
-for (var i = 1; i < 100; i++) {
+for (var i = 1; i < 101; i++) {
     if (i % 15 == 0) {
         console.log("FizzBuzz");
     } else if (i % 3 == 0) {
